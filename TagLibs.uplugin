@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "TagLibs Plugin",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Chwind",
+	"CreatedByURL" : "http://blog.ch-wind.com",
+	"EngineVersion" : "4.2.0",
+	"Description" : "TagLibs Plugin Test.",
+	"Category" : "Examples",
+	"EnabledByDefault" : true,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "TagLibs",
+			"Type" : "Runtime"
+		}
+	]
+}
